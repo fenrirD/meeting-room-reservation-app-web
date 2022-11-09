@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meeting-room-reservation-app-web/static/css/main.cf78c519.css",
+    "main.js": "/meeting-room-reservation-app-web/static/js/main.5316340c.js",
+    "static/js/787.50baab41.chunk.js": "/meeting-room-reservation-app-web/static/js/787.50baab41.chunk.js",
+    "index.html": "/meeting-room-reservation-app-web/index.html",
+    "main.cf78c519.css.map": "/meeting-room-reservation-app-web/static/css/main.cf78c519.css.map",
+    "main.5316340c.js.map": "/meeting-room-reservation-app-web/static/js/main.5316340c.js.map",
+    "787.50baab41.chunk.js.map": "/meeting-room-reservation-app-web/static/js/787.50baab41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf78c519.css",
+    "static/js/main.5316340c.js"
+  ]
+}
