@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/meeting-room-reservation-app-web/static/css/main.fe5a7879.css",
-    "main.js": "/meeting-room-reservation-app-web/static/js/main.8a36e258.js",
+    "main.css": "/meeting-room-reservation-app-web/static/css/main.ec4e9f4e.css",
+    "main.js": "/meeting-room-reservation-app-web/static/js/main.71ded1e1.js",
     "static/js/787.50baab41.chunk.js": "/meeting-room-reservation-app-web/static/js/787.50baab41.chunk.js",
     "index.html": "/meeting-room-reservation-app-web/index.html",
-    "main.fe5a7879.css.map": "/meeting-room-reservation-app-web/static/css/main.fe5a7879.css.map",
-    "main.8a36e258.js.map": "/meeting-room-reservation-app-web/static/js/main.8a36e258.js.map",
+    "main.ec4e9f4e.css.map": "/meeting-room-reservation-app-web/static/css/main.ec4e9f4e.css.map",
+    "main.71ded1e1.js.map": "/meeting-room-reservation-app-web/static/js/main.71ded1e1.js.map",
     "787.50baab41.chunk.js.map": "/meeting-room-reservation-app-web/static/js/787.50baab41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe5a7879.css",
-    "static/js/main.8a36e258.js"
+    "static/css/main.ec4e9f4e.css",
+    "static/js/main.71ded1e1.js"
   ]
 }
